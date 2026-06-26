@@ -43,7 +43,7 @@ modo: ["aprendiendo 📚", "creando 🎨"]
 
 ### 💻 Tecnologías y herramientas
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,cpp,c,git,github,figma,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,cpp,c,git,github,figma,notion,vscode&theme=light" />
 
 </div>
 
