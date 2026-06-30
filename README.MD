@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E8,100:FFB6D9&height=200&section=header&text=¡Hola,%20soy%20Andrea!%20🌸&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Diseñadora%20%26%20Estudiante%20✨&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFD1E8,100:FFB6D9&amp;height=200&amp;section=header&amp;text=¡Hola,%20soy%20Andrea!%20🌸&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Diseñadora%20%26%20Estudiante%20✨&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=F783C7&center=true&vCenter=true&width=500&lines=Creando+cositas+bonitas+%F0%9F%8C%B8;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%92%96;Bienvenido%2Fa+a+mi+perfil+%F0%9F%8E%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=F783C7&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Creando+y+creando...+%F0%9F%8C%B8;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%92%96;Bienvenido%2Fa+a+mi+perfil+%F0%9F%8E%80" alt="Typing SVG" />
 
 </div>
 
@@ -28,7 +28,6 @@ modo: ["aprendiendo 📚", "creando 🎨"]
 
 ### 🎀 Datos curiosos
 
-- 🌸 Me encanta que las cosas se vean **bonitas y ordenadas**
 - 📍 Desde Manabí, Ecuador
 - 🌱 Aprendiendo algo nuevo todos los días
 - 💌 Conecta conmigo en LinkedIn
@@ -43,7 +42,7 @@ modo: ["aprendiendo 📚", "creando 🎨"]
 
 ### 💻 Tecnologías y herramientas
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,cpp,c,git,github,figma,notion,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,cpp,c,git,github,figma,notion,vscode&amp;theme=light" />
 
 </div>
 
@@ -53,12 +52,12 @@ modo: ["aprendiendo 📚", "creando 🎨"]
 
 ### 📊 Estadísticas de GitHub
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=acampanaa&show_icons=true&theme=transparent&hide_border=true&title_color=F783C7&icon_color=F9A8D4&text_color=8A5A6B&bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acampanaa&layout=compact&theme=transparent&hide_border=true&title_color=F783C7&text_color=8A5A6B&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=acampanaa&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=F783C7&amp;icon_color=F9A8D4&amp;text_color=8A5A6B&amp;bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acampanaa&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=F783C7&amp;text_color=8A5A6B&amp;bg_color=00000000" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=acampanaa&theme=default&hide_border=true&background=00000000&ring=F9A8D4&fire=F783C7&currStreakLabel=F783C7" />
+<img src="https://streak-stats.demolab.com?user=acampanaa&amp;theme=default&amp;hide_border=true&amp;background=00000000&amp;ring=F9A8D4&amp;fire=F783C7&amp;currStreakLabel=F783C7" />
 
 </div>
 
@@ -68,7 +67,7 @@ modo: ["aprendiendo 📚", "creando 🎨"]
 
 ### 🌸 Racha de contribuciones
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=acampanaa&theme=react-dark&hide_border=true&bg_color=00000000&color=F783C7&line=F9A8D4&point=8A5A6B" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=acampanaa&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=00000000&amp;color=F783C7&amp;line=F9A8D4&amp;point=8A5A6B" width="100%"/>
 
 </div>
 
@@ -89,6 +88,6 @@ modo: ["aprendiendo 📚", "creando 🎨"]
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,100:FFD1E8&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFB6D9,100:FFD1E8&amp;height=120&amp;section=footer"/>
 
 </div>
