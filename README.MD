@@ -44,29 +44,56 @@ modo: ["aprendiendo 📚", "creando 🎨"]
 
 **💻 Lenguajes de Programación**
 
-<img src="https://skillicons.dev/icons?i=js,py,java,kotlin,c,cpp,html,css&amp;theme=light" />
+<img src="https://img.shields.io/badge/JavaScript-FFB6D9?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Python-FFB6D9?style=for-the-badge&amp;logo=python&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Java-FFB6D9?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Kotlin-FFB6D9?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/C-FFB6D9?style=for-the-badge&amp;logo=c&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/C%2B%2B-FFB6D9?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/HTML5-FFB6D9?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/CSS-FFB6D9?style=for-the-badge&amp;logo=css&amp;logoColor=white&amp;labelColor=F783C7" />
 
 **🧰 Frameworks y Librerías**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,astro,angular,tailwind,flask,fastapi&amp;theme=light" />
-<br>
+<img src="https://img.shields.io/badge/Node.js-FFB6D9?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Express-FFB6D9?style=for-the-badge&amp;logo=express&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/React-FFB6D9?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Next.js-FFB6D9?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Astro-FFB6D9?style=for-the-badge&amp;logo=astro&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Angular-FFB6D9?style=for-the-badge&amp;logo=angular&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Tailwind-FFB6D9?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Flask-FFB6D9?style=for-the-badge&amp;logo=flask&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/FastAPI-FFB6D9?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white&amp;labelColor=F783C7" />
 <img src="https://img.shields.io/badge/Jetpack_Compose-FFB6D9?style=for-the-badge&amp;logo=jetpackcompose&amp;logoColor=white&amp;labelColor=F783C7" />
 
 **☁️ Plataformas y Cloud**
 
-<img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,supabase,heroku&amp;theme=light" />
-<br>
+<img src="https://img.shields.io/badge/Firebase-FFB6D9?style=for-the-badge&amp;logo=firebase&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Google_Cloud-FFB6D9?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Vercel-FFB6D9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Supabase-FFB6D9?style=for-the-badge&amp;logo=supabase&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Heroku-FFB6D9?style=for-the-badge&amp;logoColor=white&amp;labelColor=F783C7" />
 <img src="https://img.shields.io/badge/Railway-FFB6D9?style=for-the-badge&amp;logo=railway&amp;logoColor=white&amp;labelColor=F783C7" />
 
 **🛠️ Herramientas y DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,postman,figma,notion&amp;theme=light" />
+<img src="https://img.shields.io/badge/Git-FFB6D9?style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/GitHub-FFB6D9?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/GitLab-FFB6D9?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Docker-FFB6D9?style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Kubernetes-FFB6D9?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Postman-FFB6D9?style=for-the-badge&amp;logo=postman&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Figma-FFB6D9?style=for-the-badge&amp;logo=figma&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Notion-FFB6D9?style=for-the-badge&amp;logo=notion&amp;logoColor=white&amp;labelColor=F783C7" />
 
 **🛢️ Bases de Datos**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma&amp;theme=light" />
-<br>
+<img src="https://img.shields.io/badge/MySQL-FFB6D9?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/PostgreSQL-FFB6D9?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/MongoDB-FFB6D9?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/SQLite-FFB6D9?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white&amp;labelColor=F783C7" />
 <img src="https://img.shields.io/badge/MariaDB-FFB6D9?style=for-the-badge&amp;logo=mariadb&amp;logoColor=white&amp;labelColor=F783C7" />
+<img src="https://img.shields.io/badge/Prisma-FFB6D9?style=for-the-badge&amp;logo=prisma&amp;logoColor=white&amp;labelColor=F783C7" />
 
 </div>
 
