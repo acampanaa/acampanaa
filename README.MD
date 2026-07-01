@@ -46,17 +46,25 @@ modo: ["aprendiendo 📚", "creando 🎨"]
 
 <img src="https://skillicons.dev/icons?i=js,py,java,kotlin,c,cpp,html,css&amp;theme=light" />
 
+<br>
+
 **🧰 Frameworks y Librerías**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,astro,angular,tailwind,flask,fastapi&amp;theme=light" />
+
+<br>
 
 **☁️ Plataformas y Cloud**
 
 <img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,supabase,heroku&amp;theme=light" />
 
+<br>
+
 **🛠️ Herramientas y DevOps**
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,postman,figma,notion&amp;theme=light" />
+
+<br>
 
 **🛢️ Bases de Datos**
 
