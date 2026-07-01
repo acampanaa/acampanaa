@@ -52,12 +52,12 @@ modo: ["aprendiendo 📚", "creando 🎨"]
 
 ### 📊 Estadísticas de GitHub
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=acampanaa&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=F783C7&amp;icon_color=F9A8D4&amp;text_color=8A5A6B&amp;bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acampanaa&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=F783C7&amp;text_color=8A5A6B&amp;bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=acampanaa&amp;show_icons=true&amp;hide_border=true&amp;title_color=F783C7&amp;icon_color=F9A8D4&amp;text_color=8A5A6B&amp;bg_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acampanaa&amp;layout=compact&amp;hide_border=true&amp;title_color=F783C7&amp;text_color=8A5A6B&amp;bg_color=ffffff" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=acampanaa&amp;theme=default&amp;hide_border=true&amp;background=00000000&amp;ring=F9A8D4&amp;fire=F783C7&amp;currStreakLabel=F783C7" />
+<img src="https://streak-stats.demolab.com?user=acampanaa&amp;hide_border=true&amp;background=ffffff&amp;stroke=F9A8D4&amp;ring=F9A8D4&amp;fire=F783C7&amp;currStreakLabel=F783C7&amp;sideLabels=8A5A6B&amp;dates=8A5A6B&amp;sideNums=8A5A6B&amp;currStreakNum=8A5A6B" />
 
 </div>
 
