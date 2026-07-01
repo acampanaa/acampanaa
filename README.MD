@@ -40,9 +40,33 @@ modo: ["aprendiendo 📚", "creando 🎨"]
 
 <div align="center">
 
-### 💻 Tecnologías y herramientas
+### 🧠 Tecnologías y herramientas
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,cpp,c,git,github,figma,notion,vscode&amp;theme=light" />
+**💻 Lenguajes de Programación**
+
+<img src="https://skillicons.dev/icons?i=js,py,java,kotlin,c,cpp,html,css&amp;theme=light" />
+
+**🧰 Frameworks y Librerías**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,astro,angular,tailwind,flask,fastapi&amp;theme=light" />
+<br>
+<img src="https://img.shields.io/badge/Jetpack_Compose-FFB6D9?style=for-the-badge&amp;logo=jetpackcompose&amp;logoColor=white&amp;labelColor=F783C7" />
+
+**☁️ Plataformas y Cloud**
+
+<img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,supabase,heroku&amp;theme=light" />
+<br>
+<img src="https://img.shields.io/badge/Railway-FFB6D9?style=for-the-badge&amp;logo=railway&amp;logoColor=white&amp;labelColor=F783C7" />
+
+**🛠️ Herramientas y DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,postman,figma,notion&amp;theme=light" />
+
+**🛢️ Bases de Datos**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma&amp;theme=light" />
+<br>
+<img src="https://img.shields.io/badge/MariaDB-FFB6D9?style=for-the-badge&amp;logo=mariadb&amp;logoColor=white&amp;labelColor=F783C7" />
 
 </div>
 
